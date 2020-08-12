@@ -54,4 +54,4 @@ describe ( 'Gift', () => {
         expect(mockRemove).toHaveBeenCalledWith(id);
       })
     });
-});
+}); 
