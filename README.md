@@ -1,4 +1,4 @@
-<h1 align="center"> ListMy Gift</h1>
+<h1 align="center"> List My Gift</h1>
 
 <h2 align="center">About the project<h2>
 <p align="center">It's a React app which user can add a gift to a list with the name of the person and the gift. The purpose of making this app is testing react app with jest and enzyme.<br><p/>
