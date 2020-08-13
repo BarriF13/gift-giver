@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  padding: 5%;
+  padding-left: 20%;
+  padding-right:20% ;
+  background: rgb(102, 228, 221);
+color: white;
+font-family: sans-serif;
+}
+.gift{
+  border: 1px solid rgb(10, 38, 48);
+  border-radius:5px;
+  margin: 10px;
+  padding: 20px;
+
+}
+button {
+ margin: 10px;
+ padding: 10px 20px;
+ border: none;
+ border-radius: 5px;
+ color: white;
+ background: rgb(141, 147, 153);
+}
