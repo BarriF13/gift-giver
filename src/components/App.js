@@ -41,7 +41,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h2>Gift giver</h2>
+        <h2>List My Gifts</h2>
         <div className="gift-list">
           {
             this.state.gifts.map(gift => {
